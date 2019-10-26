@@ -1,0 +1,11 @@
+.position {
+	position: absolute ;
+	top: 30px;
+	left: 2%;
+	max-width: 10%;
+	height: 25%;
+}
+
+.bannerTopo {
+	width: 100%;
+}
