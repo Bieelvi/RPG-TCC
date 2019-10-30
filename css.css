@@ -1,4 +1,4 @@
-.position {
+.position-avatar {
 	position: absolute;
 	top: 30px;
 	left: 2%;
@@ -7,6 +7,20 @@
 	background-color: white;
 	border-radius: 20px;
 	padding: 5px;
+	text-align: center; 
+	font-weight: bold;
+}
+
+.position-login-entrar {
+	position: absolute;
+	top: 30px;
+	right: 2%;
+	width: 5%;
+	height: 10%;
+	background-color: white;
+	border-radius: 20px;
+	padding: 10px;
+	text-align: center;
 }
 
 .bannerTopo {
