@@ -1,10 +1,16 @@
+body {
+	padding: 0px;
+	background: fixed;
+	background-image: url(imagens/bgteste2.png);
+}
+
 .position-avatar {
 	position: absolute;
 	top: 30px;
 	left: 2%;
 	max-width: 10%;
 	height: 17%;
-	background-color: white;
+	background-color: lightgray;
 	border-radius: 20px;
 	padding: 5px;
 	text-align: center; 
@@ -17,12 +23,18 @@
 	right: 2%;
 	width: 5%;
 	height: 10%;
-	background-color: white;
+	background-color: lightgray;
 	border-radius: 20px;
-	padding: 10px;
+	padding-top: 13px;
 	text-align: center;
 }
 
 .bannerTopo {
 	width: 100%;
+}
+
+.imagemJogadorMestre {
+	margin: 8% 16% 16% 16%;
+	width: 350px;
+	border-radius: 250px;
 }
