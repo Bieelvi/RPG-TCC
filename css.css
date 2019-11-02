@@ -39,6 +39,7 @@ body {
 	border-radius: 250px;
 }
 
+<<<<<<< HEAD
 		/*Formulário*/
 
 .vl{
@@ -53,4 +54,55 @@ label{
 }
 .entrar{
 	
+=======
+hr {
+	background-color: white;
+}
+
+.div_DA {
+	color: white;
+}
+
+.texto_centro {
+	text-align: center;
+}
+
+.tmestre_jogador {
+	text-align: center; 
+	margin-top:8%; 
+	font-family: 'Permanent Marker', cursive; font-size: 2em; 
+	color: white;
+}
+
+.tmestre_jogador:hover {
+	transform: scale(1.1,1.1);
+	color: silver;
+	transition-duration: 1s;
+	transition-delay: 0s;
+	transition-timing-function: ease;
+}
+
+.imestre_jogador:hover {
+	transform: scale(1.03,1.03);
+	color: red;
+	transition-duration: 1s;
+	transition-delay: 0s;
+	transition-timing-function: ease;
+}
+
+.nome {
+	 color: white;
+}
+
+.iperfil {
+	width: 128px;
+}
+
+.iperfil:hover {
+	transform: scale(1.03,1.03);
+	transition-duration: 1s;
+	transition-delay: 0s;
+	transition-timing-function: ease;
+
+>>>>>>> 16d2d0e41bcf2c72d7127d732c0374dbc5ab6d11
 }
