@@ -38,3 +38,19 @@ body {
 	width: 350px;
 	border-radius: 250px;
 }
+
+		/*Formulário*/
+
+.vl{
+	border-left: 6px solid green;
+ 	height: 100%;
+}
+label{
+	color: 	#DCDCDC; 
+}
+.titulo{
+	font-size: 3em;
+}
+.entrar{
+	
+}
