@@ -39,7 +39,6 @@ body {
 	border-radius: 250px;
 }
 
-<<<<<<< HEAD
 		/*Formulário*/
 
 .vl{
@@ -52,9 +51,7 @@ label{
 .titulo{
 	font-size: 3em;
 }
-.entrar{
-	
-=======
+
 hr {
 	background-color: white;
 }
@@ -103,6 +100,4 @@ hr {
 	transition-duration: 1s;
 	transition-delay: 0s;
 	transition-timing-function: ease;
-
->>>>>>> 16d2d0e41bcf2c72d7127d732c0374dbc5ab6d11
 }
