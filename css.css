@@ -13,18 +13,6 @@ body {
 	border-radius: 15px;
 }
 
-.position-login-entrar {
-	position: absolute;
-	top: 30px;
-	right: 2%;
-	width: 5%;
-	height: 10%;
-	background-color: lightgray;
-	border-radius: 20px;
-	padding-top: 13px;
-	text-align: center;
-}
-
 .bannerTopo {
 	width: 100%;
 }
@@ -51,12 +39,10 @@ hr {
 	background-color: white;
 }
 
-.div_DA {
-	color: white;
-}
 
 .texto_centro {
 	text-align: center;
+	color: white;
 }
 
 .tmestre_jogador {
@@ -99,9 +85,26 @@ hr {
 	transition-timing-function: ease;
 }
 
+.divCreditos {
+	background-color: #343a40; 
+	padding: 10px; 
+	margin: 0;
+}
+
 @media screen and (min-width: 200px) and (max-width: 992px) {
 .iperfil {
 	display: none;
+}
+
+@media screen and (min-width: 767px) and (max-width: 1175px) {
+.divCreditos {
+	background-color: #343a40; 
+	padding: 10px; 
+	margin: 0;
+	position: bottom;
+
+}
+
 }
 
 .nome {
@@ -109,7 +112,6 @@ hr {
 }
 
 }
-
 
 			/*Quem Somos*/
 	
