@@ -141,3 +141,10 @@ hr {
 	border-radius: 35px; 
 
 }
+
+.verdinho:hover {
+	color: green;
+	border-style: solid;
+	border-color: green;
+	border-radius: 50px;
+} 
