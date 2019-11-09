@@ -96,21 +96,9 @@ hr {
 	display: none;
 }
 
-@media screen and (min-width: 767px) and (max-width: 1175px) {
-.divCreditos {
-	background-color: #343a40; 
-	padding: 10px; 
-	margin: 0;
-	position: bottom;
-
-}
-
-}
-
 .nome {
 	margin-top: 50px;
 }
-
 }
 
 			/*Quem Somos*/
