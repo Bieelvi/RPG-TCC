@@ -102,7 +102,7 @@ hr {
 	transition-timing-function: ease;
 }
 
-<<<<<<< HEAD
+
 			/*Quem Somos*/
 	
 .quemSomos{
@@ -112,7 +112,8 @@ hr {
 
 .card-img-top{
 	height: 350px;
-=======
+}
+
 .heightCarousel {
 	height: 500px;
 }
@@ -141,5 +142,4 @@ hr {
 	height: 300px;
 	border-radius: 35px; 
 
->>>>>>> 4ac799186e3a59114c6a8e75e61f9fea26c74126
 }
