@@ -102,6 +102,7 @@ hr {
 	transition-timing-function: ease;
 }
 
+<<<<<<< HEAD
 			/*Quem Somos*/
 	
 .quemSomos{
@@ -111,4 +112,34 @@ hr {
 
 .card-img-top{
 	height: 350px;
+=======
+.heightCarousel {
+	height: 500px;
+}
+
+.jumbotron-margin {
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 5%;
+}
+
+.fonte-texto {
+	font-family: 'Satisfy', cursive; 
+	font-size: 1.5em;
+}
+
+.fonte-titulo {
+	font-family: 'Yeon Sung', cursive;
+}
+
+.fonte-subtitulo {
+	font-family: 'Permanent Marker', cursive;
+}
+
+.imagemdice {
+	width: 560px;
+	height: 300px;
+	border-radius: 35px; 
+
+>>>>>>> 4ac799186e3a59114c6a8e75e61f9fea26c74126
 }
