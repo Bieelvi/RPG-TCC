@@ -101,3 +101,33 @@ hr {
 	transition-delay: 0s;
 	transition-timing-function: ease;
 }
+
+.heightCarousel {
+	height: 500px;
+}
+
+.jumbotron-margin {
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 5%;
+}
+
+.fonte-texto {
+	font-family: 'Satisfy', cursive; 
+	font-size: 1.5em;
+}
+
+.fonte-titulo {
+	font-family: 'Yeon Sung', cursive;
+}
+
+.fonte-subtitulo {
+	font-family: 'Permanent Marker', cursive;
+}
+
+.imagemdice {
+	width: 560px;
+	height: 300px;
+	border-radius: 35px; 
+
+}
