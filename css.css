@@ -10,11 +10,7 @@ body {
 	left: 2%;
 	max-width: 10%;
 	height: 17%;
-	background-color: lightgray;
-	border-radius: 20px;
-	padding: 5px;
-	text-align: center; 
-	font-weight: bold;
+	border-radius: 15px;
 }
 
 .position-login-entrar {
@@ -34,7 +30,6 @@ body {
 }
 
 .imagemJogadorMestre {
-	margin: 8% 16% 16% 16%;
 	width: 350px;
 	border-radius: 250px;
 }
@@ -89,6 +84,8 @@ hr {
 
 .nome {
 	 color: white;
+	 text-align: center;
+	 text-decoration: bold;
 }
 
 .iperfil {
@@ -100,6 +97,17 @@ hr {
 	transition-duration: 1s;
 	transition-delay: 0s;
 	transition-timing-function: ease;
+}
+
+@media screen and (min-width: 200px) and (max-width: 992px) {
+.iperfil {
+	display: none;
+}
+
+.nome {
+	margin-top: 50px;
+}
+
 }
 
 
