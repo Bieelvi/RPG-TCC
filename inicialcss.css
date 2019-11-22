@@ -1,0 +1,16 @@
+body {
+	background-image: url(imagens/bg.jpg);
+}
+
+.divCreditos { 
+	padding: 10px; 
+}
+
+.texto_centro {
+	text-align: center;
+	color: white;
+}
+
+.bg-navbar {
+	opacity: 0;
+}
