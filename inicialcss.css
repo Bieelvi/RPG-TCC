@@ -1,5 +1,8 @@
 body {
-	background-image: url(imagens/bg.jpg);
+  	background-image: url('imagens/bg.jpg');
+ 	background-repeat: no-repeat;
+ 	background-attachment: fixed;
+ 	background-size: cover;
 }
 
 .divCreditos { 
@@ -9,8 +12,4 @@ body {
 .texto_centro {
 	text-align: center;
 	color: white;
-}
-
-.bg-navbar {
-	opacity: 0;
 }
